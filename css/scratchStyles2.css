@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 15px;
+    color:antiquewhite;
+    background-color: darkslategrey
+}
+li {
+    font-size: 14px;
+    font-style: italic;
+    font-weight: normal;
+}
+a {
+    color: rgb(138, 138, 158);
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+    font-weight: bold;
+}
+a:visited {
+    color: rgb(153, 153, 164);
+}
+.bold {
+    font-weight: bold;
+}
+.homebg {
+    background-image: url('../Images/Happy\ old\ guy.jpg');
+    
+}
+.box1 {
+    border-width: 1px;
+    border-style: solid;
+}
+.box2 {
+    padding: 5px;
+}
+.box3 {
+    margin: 50px;
+}
+
